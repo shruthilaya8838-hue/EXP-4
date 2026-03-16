@@ -4,16 +4,11 @@ EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
-
 THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
-
-
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
-
-
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
@@ -35,18 +30,21 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
-
+![img](add.png.jpeg)
+![img](or.png.jpeg)
+![img](not.png.jpeg)
 Half wave rectifier with filter:
-
+![img](screen 1.png.jpeg)
 Bridge rectifier with filter:
-
+![img](screen 2.png.jpeg)
 TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
 
 WAVEFORM:
-
+![img](1.png.png)
+![img](2.png.png)
 
 RESULT:
 
